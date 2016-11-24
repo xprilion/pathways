@@ -1,0 +1,73 @@
+.cd-logo{
+	font-size: 32px;
+	font-family: Monotype Corsiva;
+	color: #ededff;
+	font-weight: bold;
+}
+
+.port{
+	display: none;
+}
+
+a{
+	cursor: pointer;
+}
+
+#overlay{
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	padding: 40vh 5vh;
+	font-family: Dejavu Sans;
+	font-size: 4rem;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	color: #dfdfdf;
+	background: #000;
+}
+
+#god{
+	display: none;
+	min-height: 100%;
+	background: transparent;
+}
+
+
+.info{
+	font-family: Dejavu Sans;
+	font-size: 3rem;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+    background: rgba(255, 255, 255, 0.2) none repeat scroll 0% 0%;
+	color: #fff;
+	margin: 3%;
+}
+
+#einfo{
+	margin: 5%;
+    padding: 5%;
+    border-radius: 20px;
+}
+
+#cinfo{
+	margin: 5%;
+	padding: 5%;
+	min-height: 100vh;
+	border-radius: 20px;
+}
+
+footer {
+    display: block;
+	padding: 2%;
+	font-size: small;
+	color: #cdcdcd;
+	background: #fff;
+} 
+
+.navigation{
+	display: none;
+}
